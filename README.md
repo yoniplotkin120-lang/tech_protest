@@ -23,9 +23,9 @@ The survey datasets are not included in this public repository because they may 
 
 The study preregistration is available through the Open Science Framework:
 
-```text
-DOI: 10.17605/OSF.IO/KY6VR
-```
+
+DOI: 
+10.17605/OSF.IO/KY6VR
 
 ## Author
 
