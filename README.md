@@ -22,10 +22,9 @@ The survey datasets are not included in this public repository because they may 
 ## Study registration
 
 The study preregistration is available through the Open Science Framework:
+Plotkin, J., & Epstein, D. (2026, July 9). Values, Status, and Protest: Explaining Political Participation among Israeli Tech Workers during the 2023 Judicial Overhaul Protests in Israel. https://doi.org/10.17605/OSF.IO/KY6VR
 
 
-DOI: 
-10.17605/OSF.IO/KY6VR
 
 ## Author
 
